@@ -170,7 +170,7 @@ const workExperiences = {
       date: "March 2020 – Present",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "Lorem ipsum dolor sit ameit, consectetur adipiscing elit",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
     },
