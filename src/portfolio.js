@@ -117,10 +117,10 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Mumbai University",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/MU.png"),
       subHeader: "Bachleor of Engineering in Information Technology",
       duration: "September 2014 - April 2017",
-      desc: "Participated in the research of XXX and published 3 papers.",
+      desc: "Datta Meghe College of Engineering",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
@@ -128,7 +128,7 @@ const educationInfo = {
     },
     {
       schoolName: "Mumbai University",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/MU.png"),
       subHeader: "Diploma in Information Technology",
       duration: "September 2013 - April 2017",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
