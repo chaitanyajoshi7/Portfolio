@@ -120,7 +120,7 @@ const educationInfo = {
       logo: require("./assets/images/MU.png"),
       subHeader: "Bachleor of Engineering in Information Technology",
       duration: "September 2014 - April 2017",
-      desc: "B.E. (Information Technology) degree course covers the study of a variety of functions performed by IT engineers; right from installing applications to designing complex computer networks and information databases.",
+      desc: "Datta Meghe College of Engineering",
       descBullets: [
         "B.E. (Information Technology) degree course covers the study of a variety of functions performed by IT engineers; right from installing applications to designing complex computer networks and information databases.",
         "Took courses about Software Engineering, Web Security, Operating Systems,Artificial Intelligence, Algorithm Design and Optimization,Basic Mathematics, Core & Advanced Java ,Computer Graphics, Computer Ethics and Cyber Law,	Relational Database Management System (RDBMS),Project Management "
@@ -131,7 +131,7 @@ const educationInfo = {
       logo: require("./assets/images/MU.png"),
       subHeader: "Diploma in Information Technology",
       duration: "September 2013 - April 2017",
-      desc: ".",
+      desc: "Muchhala Polytechnic  ",
       descBullets: ["Took courses about Software Engineering, Web Security, Operating Systems,Artificial Intelligence, Algorithm Design and Optimization,Basic Mathematics, Core & Advanced Java ,Computer Graphics, Computer Ethics and Cyber Law,	Relational Database Management System (RDBMS),Project Management "]
     }
   ]
