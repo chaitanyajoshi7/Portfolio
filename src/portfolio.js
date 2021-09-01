@@ -27,8 +27,8 @@ const socialMediaLinks = {
   github: "https://github.com/chaitanyajoshi7",
   linkedin: "https://www.linkedin.com/in/chaitanyajoshi7/",
   gmail: "joshics09@gmail.com",
-  //gitlab: "https://gitlab.com/saadpasta",
-  //facebook: "https://www.facebook.com/saad.pasta7",
+    //gitlab: "https://gitlab.com/saadpasta",
+  //facebook: "https://twitter.com/Chaitanyajoshi7",
   //medium: "https://medium.com/@saadpasta",
   //stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram and Twitter are also supported in the links!
@@ -120,10 +120,10 @@ const educationInfo = {
       logo: require("./assets/images/MU.png"),
       subHeader: "Bachleor of Engineering in Information Technology",
       duration: "September 2014 - April 2017",
-      desc: "Datta Meghe College of Engineering",
+      desc: "B.E. (Information Technology) degree course covers the study of a variety of functions performed by IT engineers; right from installing applications to designing complex computer networks and information databases.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "B.E. (Information Technology) degree course covers the study of a variety of functions performed by IT engineers; right from installing applications to designing complex computer networks and information databases.",
+        "Took courses about Software Engineering, Web Security, Operating Systems,Artificial Intelligence, Algorithm Design and Optimization,Basic Mathematics, Core & Advanced Java ,Computer Graphics, Computer Ethics and Cyber Law,	Relational Database Management System (RDBMS),Project Management "
       ]
     },
     {
@@ -131,8 +131,8 @@ const educationInfo = {
       logo: require("./assets/images/MU.png"),
       subHeader: "Diploma in Information Technology",
       duration: "September 2013 - April 2017",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      desc: ".",
+      descBullets: ["Took courses about Software Engineering, Web Security, Operating Systems,Artificial Intelligence, Algorithm Design and Optimization,Basic Mathematics, Core & Advanced Java ,Computer Graphics, Computer Ethics and Cyber Law,	Relational Database Management System (RDBMS),Project Management "]
     }
   ]
 };
@@ -166,26 +166,26 @@ const workExperiences = {
     {
       role: "Senior Analyst",
       company: "eClerx ",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/ec.png"),
       date: "March 2020 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "Developing intuitive software that meets and exceeds the needs of the company.",
       descBullets: [
-        "Lorem ipsum dolor sit ameit, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Custom building applications",
+        "Creating Websites and web apps"
       ]
     },
     {
       role: "Test Engineer",
       company: "Quality Kisok pvt.ltd",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/QK.png"),
       date: "Feb 2018 – March 2020",
-      desc: ""
+      desc: "Analyzed the past process short-coming in the Lead management system reduced the gap between the marketing team and the Lead generator which resulted in a 55% increased in revenue in the business year 2019. Evaluated in 6 members whether the client’s marketing strategy for lead management targets key decisions of leadtracking and reduced the time required for tracking by 20-30%. Developed a Facial Recognition system for easy claim settlement process by tracking face vector and age estimation algorithm resulted in reduced paperwork of worth 4-5 lakhs approximately and increased claim settlement rate."
       
     },
     {
       role: "Jr. Software Developer",
       company: "Atha Media Services",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/am.png"),
       date: "June 2017 – Jan 2018",
       desc: "Executed the project named 'Fish-Tokri.com' which is an e-commerce site for home-delivery raw and fresh seafood. Designed and developed the E-commerce website and mobile app which lead to the initial traffic related to the project"
     }
@@ -243,34 +243,34 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "Udemy",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+        "The Complete JavaScript Course: Beginner to Advanced level",
+      image: require("./assets/images/ud.png"),
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://www.udemy.com/certificate/UC-012c5cc8-5989-4e7b-a347-a6f4c8bcc0a8/"
         },
         {
           name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+          url: "https://www.udemy.com/certificate/UC-012c5cc8-5989-4e7b-a347-a6f4c8bcc0a8/"
         },
         {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          //name: "Google Code-in Blog",
+          ///url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
         }
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "Udemy",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+        " The Complete ReactJs Course - Basics to Advanced (2021).",
+      image: require("./assets/images/ud.png"),
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "Certification",
+          url: "https://www.udemy.com/certificate/UC-8d4a1a4a-2579-48a1-af3e-eebabfb55ec7/"
         }
       ]
     },
