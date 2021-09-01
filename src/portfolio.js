@@ -187,7 +187,7 @@ const workExperiences = {
       company: "Atha Media Services",
       companylogo: require("./assets/images/am.png"),
       date: "June 2017 – Jan 2018",
-      desc: "Executed the project named 'Fish-Tokri.com' which is an e-commerce site for home-delivery raw and fresh seafood. Designed and developed the E-commerce website and mobile app which lead to the initial traffic related to the project"
+      desc: "Executed the project named 'Fish-Tokri.com' which is an e-commerce site for home-delivery raw and fresh seafood. Designed and developed the E-commerce website and mobile app which lead to the initial traffic related to the project."
     }
   ]
 };
