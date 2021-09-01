@@ -182,7 +182,7 @@ const workExperiences = {
       desc: ["Analyzed the past process short-coming in the Lead management system reduced the gap between the marketing team and the Lead generator which resulted in a 55% increased in revenue in the business year 2019."
     ], 
     descBullets: [
-      "Evaluated in 6 members whether the client’s marketing strategy for lead management targets key decisions of leadtracking and reduced the time required for tracking by 20-30%. Developed a Facial Recognition system for easy claim settlement process by tracking face vector and age estimation algorithm resulted in reduced paperwork of worth ₹ 4-5 lakhs approximately and increased claim settlement rate.",
+      "Evaluated in 6 members whether the client’s marketing strategy for lead management targets key decisions of leadtracking and reduced the time required for tracking by 20-30%.",
       "Developed a Facial Recognition system for easy claim settlement process by tracking face vector and age estimation algorithm resulted in reduced paperwork of worth ₹ 4-5 lakhs approximately and increased claim settlement rate."
     ]
     },
@@ -305,7 +305,7 @@ const blogSection = {
   blogs: [
     {
       url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      title: "Firebase Features",
       description:
         "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
     },
@@ -335,7 +335,7 @@ const talkSection = {
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Podcast Section
@@ -348,7 +348,7 @@ const podcastSection = {
   podcast: [
     "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
