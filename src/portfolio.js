@@ -11,7 +11,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
+  username: "Chaitanya Joshi",
   title: "Hi all, I'm Chaitanya Joshi",
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building applications with JavaScript / Reactjs/  Nodejs and some other cool libraries and frameworks."
@@ -46,7 +46,7 @@ const skillsSection = {
     ),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Integration of third party services such as Firebase/ AWS"
     )
   ],
 
