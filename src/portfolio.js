@@ -249,7 +249,7 @@ const achievementSection = {
     {
       title: "Udemy",
       subtitle:
-        "The Complete JavaScript Course: Beginner to Advanced level",
+        "The Completed JavaScript Course: Beginner to Advanced level",
       image: require("./assets/images/ud.png"),
       footerLink: [
         {
@@ -269,7 +269,7 @@ const achievementSection = {
     {
       title: "Udemy",
       subtitle:
-        " The Complete ReactJs Course - Basics to Advanced (2021).",
+        " The Completed ReactJs Course - Basics to Advanced (2021).",
       image: require("./assets/images/ud.png"),
       footerLink: [
         {
@@ -304,13 +304,13 @@ const blogSection = {
 
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
+      url: "https://medium.com/@joshics09/features-of-firebase-5ed5a4d0944a",
       title: "Firebase Features",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "Firebase has several features that make this platform essential. These features include unlimited reporting, cloud messaging, authentication and hosting, etc. "
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
+      url: "https://medium.com/@joshics09/why-choose-reactjs-for-your-next-project-features-and-benefits-8810b2d08e36",
       title: "Why REACT is The Best?",
       description:
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
