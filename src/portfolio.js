@@ -123,7 +123,7 @@ const educationInfo = {
       desc: "Datta Meghe College of Engineering",
       descBullets: [
         "B.E. (Information Technology) degree course covers the study of a variety of functions performed by IT engineers; right from installing applications to designing complex computer networks and information databases.",
-        "Took courses about Software Engineering, Web Security, Operating Systems,Artificial Intelligence, Algorithm Design and Optimization,Basic Mathematics, Core & Advanced Java ,Computer Graphics, Computer Ethics and Cyber Law,	Relational Database Management System (RDBMS),Project Management "
+        "Took courses about Software Engineering, Web Security, Operating Systems,Artificial Intelligence, Algorithm Design and Optimization,Basic Mathematics, Core & Advanced Java ,Computer Graphics, Computer Ethics and Cyber Law,	Relational Database Management System (RDBMS),Project Management. "
       ]
     },
     {
@@ -132,7 +132,7 @@ const educationInfo = {
       subHeader: "Diploma in Information Technology",
       duration: "September 2013 - April 2017",
       desc: "Muchhala Polytechnic  ",
-      descBullets: ["Took courses about Software Engineering, Web Security, Operating Systems,Artificial Intelligence, Algorithm Design and Optimization,Basic Mathematics, Core & Advanced Java ,Computer Graphics, Computer Ethics and Cyber Law,	Relational Database Management System (RDBMS),Project Management "]
+      descBullets: ["Took courses about Software Engineering, Web Security, Operating Systems,Artificial Intelligence, Algorithm Design and Optimization,Basic Mathematics, Core & Advanced Java ,Computer Graphics, Computer Ethics and Cyber Law,	Relational Database Management System (RDBMS),Project Management."]
     }
   ]
 };
@@ -179,8 +179,12 @@ const workExperiences = {
       company: "Quality Kisok pvt.ltd",
       companylogo: require("./assets/images/QK.png"),
       date: "Feb 2018 – March 2020",
-      desc: "Analyzed the past process short-coming in the Lead management system reduced the gap between the marketing team and the Lead generator which resulted in a 55% increased in revenue in the business year 2019. Evaluated in 6 members whether the client’s marketing strategy for lead management targets key decisions of leadtracking and reduced the time required for tracking by 20-30%. Developed a Facial Recognition system for easy claim settlement process by tracking face vector and age estimation algorithm resulted in reduced paperwork of worth 4-5 lakhs approximately and increased claim settlement rate."
-      
+      desc: ["Analyzed the past process short-coming in the Lead management system reduced the gap between the marketing team and the Lead generator which resulted in a 55% increased in revenue in the business year 2019."
+    ], 
+    descBullets: [
+      "Evaluated in 6 members whether the client’s marketing strategy for lead management targets key decisions of leadtracking and reduced the time required for tracking by 20-30%. Developed a Facial Recognition system for easy claim settlement process by tracking face vector and age estimation algorithm resulted in reduced paperwork of worth ₹ 4-5 lakhs approximately and increased claim settlement rate.",
+      "Developed a Facial Recognition system for easy claim settlement process by tracking face vector and age estimation algorithm resulted in reduced paperwork of worth ₹ 4-5 lakhs approximately and increased claim settlement rate."
+    ]
     },
     {
       role: "Jr. Software Developer",
