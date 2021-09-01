@@ -130,7 +130,7 @@ const educationInfo = {
       schoolName: "Mumbai University",
       logo: require("./assets/images/MU.png"),
       subHeader: "Diploma in Information Technology",
-      duration: "September 2013 - April 2017",
+      duration: "September 2010 - April 2014",
       desc: "Muchhala Polytechnic  ",
       descBullets: ["Took courses about Software Engineering, Web Security, Operating Systems,Artificial Intelligence, Algorithm Design and Optimization,Basic Mathematics, Core & Advanced Java ,Computer Graphics, Computer Ethics and Cyber Law,	Relational Database Management System (RDBMS),Project Management."]
     }
@@ -356,7 +356,7 @@ const contactInfo = {
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
   number: "+91-8097942625",
-  email_address: "joshics09@gmail.com@gmail.com"
+  email_address: "joshics09@gmail.com.com"
 };
 
 // Twitter Section
